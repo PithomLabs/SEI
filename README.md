@@ -10,6 +10,7 @@ Choose from any of the following and port using [Datastar](https://github.com/st
 - https://github.com/Phillip-England/templ-quickstart
 - https://github.com/Phillip-England/godocument
 - https://github.com/asoul-sig/asouldocs
+- https://github.com/SecurityBrewery/catalyst
 - https://github.com/usememos/memos
 - https://github.com/emad-elsaid/xlog
 - https://github.com/APoniatowski/zehd
