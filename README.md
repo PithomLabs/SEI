@@ -3,7 +3,7 @@ Learn software engineering without the Ludic fallacy
 
 **Front-end Development**
 
-Port the following using [Datastar](https://github.com/starfederation/datastar)
+Choose from any of the following and port using [Datastar](https://github.com/starfederation/datastar)
 
 - https://github.com/caris-events/tunalog  
 - https://github.com/bokwoon95/notebrew 
@@ -11,6 +11,8 @@ Port the following using [Datastar](https://github.com/starfederation/datastar)
 - https://github.com/Phillip-England/godocument
 - https://github.com/asoul-sig/asouldocs
 - https://github.com/usememos/memos
+- https://github.com/emad-elsaid/xlog
+- https://github.com/APoniatowski/zehd
 - https://github.com/go-vikunja/vikunja
 
 
