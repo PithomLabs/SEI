@@ -1,6 +1,10 @@
 # SEI
 Learn software engineering without the Ludic fallacy (refer to https://medium.com/@pithomlabs/software-engineering-initiative-2c24e3150bc9)
 
+**Mission**
+
+Ultimate goal is the ruthless elimination of all things complicated or unnecessary by minimizing the interface to address simplicity and maximizing the engine to address complexity
+
 **Front-end Development**
 
 Choose from any of the following and port using [Datastar](https://github.com/starfederation/datastar). Critique the strengths and weaknesses with a comprehensive writeup, post it to Issues and after peer review, it will be posted to [Pithom Labs Medium account](https://medium.com/@pithomlabs) to maximize viewership and impact to the marketplace of ideas. Better yet, you may also compare and contrast across any two or more projects below.
