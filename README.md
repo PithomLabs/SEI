@@ -5,6 +5,12 @@ Learn software engineering without the Ludic fallacy (refer to https://medium.co
 
 Ultimate goal is the ruthless elimination of all things complicated or unnecessary by minimizing the interface to address simplicity and maximizing the engine to address complexity
 
+**Tech Stack**
+
+- Go
+- Datastar
+- Fly.io  
+
 **Front-end Development**
 
 Choose from any of the following and port using [Datastar](https://github.com/starfederation/datastar). Critique the strengths and weaknesses with a comprehensive writeup, post it to Issues and after peer review, it will be posted to [Pithom Labs Medium account](https://medium.com/@pithomlabs) to maximize viewership and impact to the marketplace of ideas. Better yet, you may also compare and contrast across any two or more projects below.
@@ -44,5 +50,6 @@ using any of the following services:
 - Add mail service using Listmonk
 - Add data engineering service using [Estuary](https://estuary.dev) and [Neosync](https://github.com/nucleuscloud/neosync)
 - Add platform service ([integrate Fly.io and GitHub Actions](https://fly.io/docs/launch/continuous-deployment-with-github-actions))
+- Use automation ([Taskfile](https://taskfile.dev))
 - Add [database branching](https://neon.tech/flow)
 - Add observability service (logging, metrics, tracing, error tracking)
